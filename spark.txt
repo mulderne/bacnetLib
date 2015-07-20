@@ -1,7 +1,0 @@
-{
-    "name": "BACnet",
-    "version": "0.8.2",
-    "author": "Steve Karg",
-    "license": "GPL-2",
-    "description": "BACnet Library Imported by NathanM"
-}
