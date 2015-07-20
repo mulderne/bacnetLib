@@ -1,5 +1,5 @@
 {
-    "name": "BACnet",
+    "name": "bacnet",
     "version": "0.8.2",
     "author": "Steve Karg",
     "license": "GPL-2",
